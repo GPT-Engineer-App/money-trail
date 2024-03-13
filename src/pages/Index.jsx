@@ -96,6 +96,7 @@ const Index = () => {
               <option value="Salary">Salary</option>
               <option value="Groceries">Groceries</option>
               <option value="Bills">Bills</option>
+              <option value="Holiday">Holiday</option>
             </Select>
           </FormControl>
           <FormControl>
